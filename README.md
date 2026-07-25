@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋 I'm Shamitha N S
 
-<!--
-**shamithans/shamithans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AIML Student
 
-Here are some ideas to get you started:
+💻 Passionate about Artificial Intelligence, Machine Learning, and Data Science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Python
+- SQL
+- Machine Learning
+- Deep Learning
+- TensorFlow
+- OpenCV
+- Git & GitHub
+
+## 📂 Projects
+- Plant Disease Detection (Team Project)
+- Phishing Website & Email Detection
+- Project Management System
+
+## 📫 Contact
+- Email: shamithans25@gmail.com
+- LinkedIn: https://www.linkedin.com/in/shamitha-n-s-445307286
