@@ -1,10 +1,10 @@
-# Hi 👋 I'm Shamitha N S
+# Hi  I'm Shamitha N S
 
-🎓 AIML Student
+ AIML Student
 
-💻 Passionate about Artificial Intelligence, Machine Learning, and Data Science.
+ Passionate about Artificial Intelligence, Machine Learning, and Data Science.
 
-## 🛠️ Skills
+## Skills
 - Python
 - SQL
 - Machine Learning
@@ -13,11 +13,11 @@
 - OpenCV
 - Git & GitHub
 
-## 📂 Projects
+## Projects
 - Plant Disease Detection (Team Project)
 - Phishing Website & Email Detection
 - Project Management System
 
-## 📫 Contact
+## Contact
 - Email: shamithans25@gmail.com
 - LinkedIn: https://www.linkedin.com/in/shamitha-n-s-445307286
